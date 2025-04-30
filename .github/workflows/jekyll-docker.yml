@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Schreibseite</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Meine Schreibseite</h1>
+  <textarea id="editor" placeholder="Schreib hier..."></textarea>
+  <script src="script.js"></script>
+</body>
+</html>
